@@ -478,7 +478,7 @@ function Q_56(n){
         case 7:
             console.log("Sunday")
             break;
-        case 2:
+        default:
             console.log("Invalid input")
             break;
     }
